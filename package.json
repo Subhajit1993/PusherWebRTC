@@ -1,0 +1,16 @@
+{
+  "name": "pusherwebrtc",
+  "version": "1.0.0",
+  "description": "webrtc video chat with pusher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Subhajit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "pusher": "^2.2.0"
+  }
+}
